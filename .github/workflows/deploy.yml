@@ -19,6 +19,6 @@ permissions:
 
 jobs:
   deploy:
-    uses: mkdocs-publisher-template/.github/workflows/deploy.yml
+    uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
