@@ -1,0 +1,15 @@
+name: Sync with template
+on:
+  workflow_dispatch:   # run manually from the Actions tab
+  schedule:
+    - cron: "0 0 * * 1"  # optional: weekly
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: AndreasAugustin/actions-template-sync@v2
+        with:
+          source_repo_path: Enveloppe/mkdocs
+          upstream_branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
