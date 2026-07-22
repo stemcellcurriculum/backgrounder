@@ -12,3 +12,10 @@ site/
 
 # Cache files
 encryptcontent.cache
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
