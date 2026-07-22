@@ -2,3 +2,13 @@
 desktop.ini
 Pipfile
 Pipfile.lock
+
+# Python virtual environment
+mkdocs-scac-env/
+venv/
+
+# MkDocs build output
+site/
+
+# Cache files
+encryptcontent.cache
