@@ -2,14 +2,28 @@
 share: true
 strip_comments: true
 fix_heading: true
-title: Frontmatter
+title: Overview
 ---
-
 This primer is part of the Stem Cells Across the Curriculum project and is in the Creative Commons (insert logo from our permissions page along with the infographics, slide sets, and figures which are hyperlinked to this document). Please see below for permissions and acknowledgements for usage.
 
 This document should be cited in the following manner:  
 
 Chamany, K. Jan 2016. HeLa Cells & HPV Genes: Immortality & Cancer. *In Stem Cells Across the Curriculum. http://www.stemcellcurriculum.org/*
+
+# How To Use This Website
+
+Welcome to _Stem Cells Across the Curriculum_. This site works both as a course you can read start to finish and as a reference you can search as needed.
+
+If you're new to the material, we recommend following the primer in the order it appears in the navigation menu and section by section within each module. Each module opens with an introduction page that outlines what it covers and lists every resource referenced. That said, you don't have to read linearly. Feel free to jump to whatever topic you need and use the site like a textbook or reference book. To look up a specific term, use the search box at the top of the page.
+
+!!! note "Highlight and Reference Key"
+	- <mark style="background: #FFF3A3A6;">Note that the yellow highlighted areas refer to media or the accompanying HeLa Primer PPT.</mark>
+	- <mark style="background: #FFB8EBA6;">Note that the pink highlights refer to the infographics available on the SCAC website</mark>
+	- *Bracketed references in italics throughout the text refer to the HeLa Primer Powerpoint. They are linked to the SCAC website where that Powerpoint can be downloaded.*
+
+Many sections are paired with slides, short videos and animations, interactive tutorials, and links to primary research. Follow them to go deeper on any topic.
+
+Before using or adapting any material, please review the [Permissions, Copyright, and Creative Commons](index.md#Permissions,%20Copyright,%20and%20Creative%20Commons) section below. Attribution and licensing requirements vary by resource. 
 
 # Permissions, Copyright, and Creative Commons
 
