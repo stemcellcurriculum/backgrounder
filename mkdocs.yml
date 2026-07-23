@@ -98,7 +98,6 @@ plugins:
       enable_creation_date: true
   - ezlinks:
         wikilinks: true
-  - awesome-pages
   - embed_file:
       callouts: true
       custom-attributes: 'assets/css/custom_attributes.css'
